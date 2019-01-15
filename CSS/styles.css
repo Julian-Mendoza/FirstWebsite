@@ -1,3 +1,13 @@
+a {
+  text-decoration: none;
+  color: #66bfbf;
+}
+
+a:hover {
+  color: #DC143C;
+  text-decoration: underline;
+}
+
 body {
   background-color: #EAF6F6;
   margin: auto 20px auto 20px;
@@ -8,6 +18,7 @@ h1, h3, h4 {
 }
 
 /* #b9e6d3 */
+
 .image {
   border-radius: 100%
 }
